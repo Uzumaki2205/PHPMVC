@@ -5,6 +5,9 @@
 # PHP MVC
 > Author: Le Ngoc Son
 ## Function
-- XSS: Merge on Quizz
-- OS Command Injection
-- Path Traversal
+- XSS -> Quiz
+- OS Command Injection -> Menu
+- Path Traversal -> Menu
+## Default Account
+- Admin: admin/admin
+- User: 20331/123123123
