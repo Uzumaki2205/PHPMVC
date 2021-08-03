@@ -37,7 +37,7 @@
 								<ul>
 									<li><a href="/PHPMVC/Admin/AllQuestion">All Question</a></li>
 									<li><a href="/PHPMVC/Admin/CreateQuestion">Create Question</a></li>
-									<li><a href="/PHPMVC/Admin/Report">Report</a></li>
+									<li><a href="/PHPMVC/Admin/Reports">Report</a></li>
 								</ul>
 							</li>
 							<li>
